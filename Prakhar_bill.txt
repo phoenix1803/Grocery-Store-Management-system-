@@ -1,0 +1,12 @@
+------ Grocery Store ------
+Customer: Prakhar
+Date/Time: 2024-09-21 14:06:23.199681
+
+Items Purchased:
+wheat - 12 * 100.0 = 1200.0
+biscuit - 2 * 1000.0 = 2000.0
+wheat - 4 * 80.0 = 320.0
+broom - 1 * 350.0 = 350.0
+tide - 6 * 200.0 = 1200.0
+
+Total: 5070.0
